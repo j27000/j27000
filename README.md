@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman </h1>
-<h3 align="center">A passionate frontend developer currently pursuing masters in computer science from state University of New York ,Binghamton University </h3>
+<h3 align="center">A passionate frontend developer currently pursuing masters in computer science from state University of New York ,Binghamton University</h3>
 
 - 🔭 I’m currently working on [petadopt](https://petadopt-xi.vercel.app/)
 
