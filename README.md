@@ -7,7 +7,7 @@
 
 - 👯 I Have completed my another full stack project related to Games [GameStreet](https://gamestreet-lac.vercel.app/)
 
-- 💬 Ask me about **c,c++,HTML,CSS, Javascript,React, firebase,CSS tailwind**
+- 💬 Ask me about **c,c++,HTML,CSS, Javascript,React, firebase,CSS tailwind,MYSQL**
 
 - 📫 How to reach me **njhala@binghamton.edu or namanjhala32@gmail.com**
 - 💬 Checkout my Portfolio To Know More ([PortFolio](https://www.namanjhala.com/))
