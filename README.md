@@ -10,7 +10,7 @@
 - 💬 Ask me about **c,c++,HTML,CSS, Javascript,React, firebase,CSS tailwind,MYSQL**
 
 - 📫 How to reach me **njhala@binghamton.edu or namanjhala32@gmail.com**
-- 💬 Checkout my Portfolio To Know More ([PortFolio](https://www.namanjhala.com/))
+- 💬 Checkout my Portfolio To Know More 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
