@@ -3,11 +3,11 @@
 
 
 
-- 🌱 I’m currently learning **React js and moving towards Backend (Node,Express and Monogodb)**
+- 🌱 I’m a Full Stack developer having interset on the frontend  Devlopment(Currently Working AI Code Navigator Which will help developers to query Codebases and increase there work Effiencncy)
 
 - 👯 I Have completed my another full stack project related to Games [GameStreet](https://gamestreet-lac.vercel.app/)
 
-- 💬 Ask me about **c,c++,HTML,CSS, Javascript,React, firebase,CSS tailwind,MYSQL**
+- 💬 Ask me about **c,c++,HTML,CSS, Javascript,React, firebase,CSS tailwind,SQL, Nodejs Expressjs**
 
 - 📫 How to reach me **njhala@binghamton.edu or namanjhala32@gmail.com**
 - 💬 Checkout my Portfolio To Know More 
