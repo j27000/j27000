@@ -7,7 +7,7 @@
 
 - 👯 I Have completed another full stack project Which is AI Powered Pet Adoption System [PetAdopt]([https://petadopt-xi.vercel.app/]
 
-- 💬 Ask me about **c,c++,HTML,CSS, Javascript,React, firebase,CSS tailwind,SQL, Nodejs Expressjs**
+- 💬 Ask me about **Python,c,c++,HTML,CSS, Javascript,React, firebase,CSS tailwind,SQL, Nodejs Expressjs**
 
 - 📫 How to reach me **njhala@binghamton.edu or namanjhala32@gmail.com**
 - 💬 Checkout my Portfolio To Know More 
